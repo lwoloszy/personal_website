@@ -29,6 +29,9 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
 }
 
+PLUGIN_PATHS = ['../pelican-plugins']
+PLUGINS = ['render_math']
+
 TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
