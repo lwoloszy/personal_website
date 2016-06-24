@@ -112,7 +112,7 @@ Status: draft
 
 
 # TEMPLATE is declared before hand, and all the necessary imports made
-def make_entry(title, tags, category):
+def make_entry(title, tags, category='misc'):
     today = datetime.today()
     slug = title.lower().strip().replace(' ', '-')
     f_create = "content/{}_{:0>2}_{:0>2}_{}.md".format(
