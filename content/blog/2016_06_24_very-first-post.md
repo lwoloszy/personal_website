@@ -3,7 +3,7 @@ Date: 2016-6-24 7:00
 Tags:  hello, introduction
 Category: misc
 Slug: very-first-post
-Summary: 
+Summary: My entrance into the blogosphere
 Status:
 
 Well, at age 33, I'm finally doing it. I'm writing my very first blog post. How did I get here? No, don't worry. This wasn't a question about my life story but rather about the path I took to getting this site up and going and what motivated me to blog. Well, to answer the first part of the question, I spent what seemed like an inordinate amount of time selecting a static site generator and theme to use, but eventually I committed to using Pelican with a very slightly modified crowsfoot theme. I'm relatively happy with how it looks, but expect (this is for that one person visiting my site) continuous tweaks to the appearance as I gain more familiarity with html and css. I'd like to thank several other bloggers out there whose posts allowed me to navigate my way through setting up this blog with Pelican and then hosting it on S3. Over the past week, these guys have become mini-heroes of mine, and I hope this site doesn't ape them too much: [Greg Reda](https://www.gregreda.com), [Lexual](http://lexual.com/blog/setup-pelican-blog-on-s3/), [Macmanus](http://www.mamcmanus.com/posts/amazon-s3-pelican-site), [Nafiul](http://nafiulis.me/making-a-static-blog-with-pelican.html).

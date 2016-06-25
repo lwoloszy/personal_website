@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Luke Woloszyn'
 SITEURL = u'http://lukewoloszyn.com'
 SITENAME = u'Luke Woloszyn'
-SITESUBTITLE = u'data scientist, outdoor enthusiast, music lover, beer snob'
+SITESUBTITLE = u'data scientist, outdoor enthusiast, music lover, sports fan'
 
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
